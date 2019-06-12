@@ -1,0 +1,21 @@
+{
+  "name": "slack-welcome-bot",
+  "version": "1.0.0",
+  "description": "this bot will welcome all the new user that join the channel",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "keywords": [
+    "Slack",
+    "Welcome",
+    "Bot"
+  ],
+  "author": "Hun Vikran",
+  "license": "ISC",
+  "dependencies": {
+    "@slack/rtm-api": "^5.0.1",
+    "dotenv": "^8.0.0",
+    "semistandard": "^13.0.1"
+  }
+}
