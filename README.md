@@ -27,7 +27,17 @@ npm install
 node bot.js
 ```
 
-### And coding style tests
+
+### To edit message
+
+```
+!msg your message
+```
+
+In your message must include **!user** so that the name of new user will be replaced to it.
+
+
+## And coding style tests
 
 ```bash
 semistandard --fix
