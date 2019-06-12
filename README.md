@@ -33,6 +33,10 @@ node bot.js
 ```
 !msg your message
 ```
+For Example:
+```
+!msg Hi! !user welcome to our channel!
+```
 
 In your message must include **!user** so that the name of new user will be replaced to it.
 
